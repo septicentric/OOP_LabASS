@@ -1,4 +1,10 @@
 ﻿  Решение.cpp
-C:\Users\New User\source\repos\OOP_Laba1\OOP_Laba1\Решение.cpp(13,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\New User\source\repos\OOP_Laba1\OOP_Laba1\Решение.cpp(124,14): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\New User\source\repos\OOP_Laba1\OOP_Laba1\Решение.cpp(14,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\New User\source\repos\OOP_Laba1\OOP_Laba1\Решение.cpp(36,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\New User\source\repos\OOP_Laba1\OOP_Laba1\Решение.cpp(164,18): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\New User\source\repos\OOP_Laba1\OOP_Laba1\Решение.cpp(184,37): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+C:\Users\New User\source\repos\OOP_Laba1\OOP_Laba1\Решение.cpp(136,13): warning C4101: m: неиспользованная локальная переменная
+C:\Users\New User\source\repos\OOP_Laba1\OOP_Laba1\Решение.cpp(136,10): warning C4101: k: неиспользованная локальная переменная
+C:\Users\New User\source\repos\OOP_Laba1\OOP_Laba1\Решение.cpp(178,16): warning C4101: k: неиспользованная локальная переменная
+C:\Users\New User\source\repos\OOP_Laba1\OOP_Laba1\Решение.cpp(178,10): warning C4101: I: неиспользованная локальная переменная
   OOP_Laba1.vcxproj -> C:\Users\New User\source\repos\OOP_Laba1\x64\Debug\OOP_Laba1.exe
