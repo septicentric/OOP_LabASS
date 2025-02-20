@@ -8,12 +8,12 @@ int main() {
 	int lp;
 	float *arr = new float[lp];
 	float S=0;
-	cout << "Ââåäèòå ğàçìåğíîñòü ìàññèâà: ";
+	cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ñ€Ğ°Ğ·Ğ¼ĞµÑ€ Ğ¼Ğ°ÑÑĞ¸Ğ²Ğ°: ";
 	cin >> l >> m;
 	float* Q = new float[l];
 	float** array = new float* [l];
 	for (int i = 0; i < l; i++) array[i] = new float[l];
-	cout << "Ââåäèòå ıëåìåíòû ìàññèâà: " << endl;
+	cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ ÑĞ»ĞµĞ¼ĞµĞ½Ñ‚Ñ‹ Ğ¼Ğ°ÑÑĞ¸Ğ²Ğ°: " << endl;
 	for (int i = 0; i < l; i++) {
 		for (int j = 0; j < m; j++) {
 			cout << "array[" << i << "][" << j << "] = ";
