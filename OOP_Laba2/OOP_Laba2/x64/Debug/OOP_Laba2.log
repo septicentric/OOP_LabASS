@@ -1,0 +1,6 @@
+﻿  Task.cpp
+C:\Users\New User\source\repos\OOP_Laba2\OOP_Laba2\Task.cpp(46,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\New User\source\repos\OOP_Laba2\OOP_Laba2\Task.cpp(48,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\New User\source\repos\OOP_Laba2\OOP_Laba2\Task.cpp(37,14): warning C4101: schet: неиспользованная локальная переменная
+C:\Users\New User\source\repos\OOP_Laba2\OOP_Laba2\Task.cpp(9,1): error C4700: использована неинициализированная локальная переменная "lp"
+C:\Users\New User\source\repos\OOP_Laba2\OOP_Laba2\Task.cpp(53,1): error C4716: sort_fast: должна возвращать значение
